@@ -1,0 +1,2 @@
+# SomeGameFromHAKATON
+StoneHumanSurvive
